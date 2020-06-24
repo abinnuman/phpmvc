@@ -1,4 +1,4 @@
-1. Extract 'anas_bin_numan.zip' file onto your htdocs folder
+1. Place the project folder onto your htdocs folder
 2. Create database 'xspeed' in your local machine
 3. Import 'db.sql' into 'xspeed' database
 4. Adjust the database access configured in 'models/datamodel.php'
